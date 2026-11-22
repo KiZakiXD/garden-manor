@@ -1,4 +1,4 @@
-# Garden Manor — Undangan Pernikahan Digital
+# Template Undangan Digital — Garden Manor
 
 Template undangan pernikahan digital satu file HTML bergaya surat klasik Inggris: kertas ivory, segel lilin, epigraf di dalam surat, nuansa taman manor yang tenang.
 
